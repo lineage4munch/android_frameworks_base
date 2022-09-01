@@ -6140,4 +6140,10 @@
     <!-- Whether we should persist the brightness value in nits for the default display even if
          the underlying display device changes. -->
     <bool name="config_persistBrightnessNitsForDefaultDisplay">false</bool>
+
+    <!-- Build fingerprint from a GMS certified device against current platform SPL level -->
+    <string name="config_certifiedFingerprint" translatable="false"></string>
+
+    <!-- Build fingerprint from the stock ROM -->
+    <string name="config_stockFingerprint" translatable="false"></string>
 </resources>
