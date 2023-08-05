@@ -4918,7 +4918,5 @@
   <java-symbol type="bool" name="config_lockscreenWeatherEnabledByDefault" />
 
   <!-- PropImitationHooks -->
-  <java-symbol type="array" name="config_certifiedBuildProperties" />
-  <java-symbol type="string" name="config_stockFingerprint" />
   <java-symbol type="bool" name="config_spoofGooglePhotos" />
 </resources>
